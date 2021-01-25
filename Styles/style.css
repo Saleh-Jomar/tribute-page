@@ -41,6 +41,8 @@ a:hover {
 #image {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 #image-caption {
     margin: 15px 0 5px;
